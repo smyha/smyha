@@ -27,7 +27,7 @@
 
 ### My skills 
 
-- ❕ Programming languages: C++, Python, HTML, CSS, JavaScript and Markdown.
+- ❕ Programming languages: C++, Java, Python, HTML, CSS, JavaScript and Markdown.
 - 💿 Operative Systems: Mainly Windows but for work I usually use Linux Shells and package management system (HomeBrew).
 
 <!--
