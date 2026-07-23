@@ -39,7 +39,7 @@ text, tspan {white-space: pre;}
 <text x="560" y="34" fill="#1f2328">
 <tspan x="560" y="34">sergio@smyha</tspan> ─────────────────────────────────────────────
 <tspan x="560" y="56" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux, Azure</tspan>
-<tspan x="560" y="78" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">3 years, 10 months, 8 days on GitHub</tspan>
+<tspan x="560" y="78" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">3 years, 10 months, 9 days on GitHub</tspan>
 <tspan x="560" y="100" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">UPC-FIB, Barcelona</tspan>
 <tspan x="560" y="122" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Network / Cloud Engineer</tspan>
 <tspan x="560" y="144" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Computer Engineering (IT)</tspan>
